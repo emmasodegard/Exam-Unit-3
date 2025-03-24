@@ -37,3 +37,11 @@ After the first puzzle, I received a poem:
 2. I also had a small bug in my code where I didn’t store the return value of `submitAnswer()` in a variable. This caused a “ReferenceError: answerData is not defined.” I fixed it by writing:
    ```js
    const answerData = await submitAnswer("SILVER");
+
+   ## Commit #4: Decoding the Number Cipher and Finding the Symbols
+
+- I took the large numeric sequence I got from the challenge and copied it into a text document.
+- I systematically guessed letters for each number, testing out common words and letters until more and more of the decoded text made sense.
+- Eventually, I uncovered the hidden message instructing me to combine eight alchemical substances:
+  **Mercury, Copper, Sulfur, Heat, Salt, Water, Gold, Air.**
+- Instead of forming a single word, I realized the puzzle wanted the **alchemical symbols** for these substances, and got the correct answer
