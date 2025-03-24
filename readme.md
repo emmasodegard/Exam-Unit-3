@@ -36,7 +36,7 @@ After the first puzzle, I received a poem:
    They form the word **SILVER**.
 2. I also had a small bug in my code where I didn’t store the return value of `submitAnswer()` in a variable. This caused a “ReferenceError: answerData is not defined.” I fixed it by writing:
    ```js
-   const answerData = await submitAnswer("SILVER");
+   const answerData = await submitAnswer("SILICON");
 
 ## Puzzle 3: Decoding the Number Cipher and Finding the Symbols
 
