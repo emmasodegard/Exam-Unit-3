@@ -7,7 +7,7 @@
 - I installed `node-fetch` (version 2) to make HTTP requests.
 - I committed these changes with the message: "initialize project with npm and git".
 
-## Solving Puzzle #1 (Forgot to Commit)
+## Puzzle #1 (Forgot to Commit)
 I forgot to commit right after the first puzzle, but here is what happened:
 
 - The puzzle gave me symbols: **☉☿☽♂☉**. 
