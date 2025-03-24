@@ -48,7 +48,7 @@ async function submitAnswer(answer) {
 async function main() {
   const puzzleData = await startPuzzle();
 
-  const guessedAnswer = "SODIUM";
+  const guessedAnswer = "PHOSPHORUS";
   const answerData = await submitAnswer(guessedAnswer);  
 
 

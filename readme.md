@@ -7,7 +7,7 @@
 - I installed `node-fetch` (version 2) to make HTTP requests.
 - I committed these changes with the message: "initialize project with npm and git".
 
-## Solving Puzzle #1 (Forgot to Commit)
+## Puzzle 1 (Forgot to Commit)
 I forgot to commit right after the first puzzle, but here is what happened:
 
 - The puzzle gave me symbols: **☉☿☽♂☉**. 
@@ -20,7 +20,7 @@ I forgot to commit right after the first puzzle, but here is what happened:
 - So the correct code was **"Gold Quicksilver Silver Iron Gold"**.
 - I used that as the answer, and the server said “Correct!” and gave me a new puzzle.
 
-## Commit #2 (Poem Puzzle)
+## Puzzle 2: Poem Puzzle
 After the first puzzle, I received a poem:
 
 > "Still flows the Icy Lethe, Veiling all ’neath Eldritch Rime."
@@ -38,7 +38,7 @@ After the first puzzle, I received a poem:
    ```js
    const answerData = await submitAnswer("SILVER");
 
-## Commit #4: Decoding the Number Cipher and Finding the Symbols
+## Puzzle 3: Decoding the Number Cipher and Finding the Symbols
 
 - I took the large numeric sequence I got from the challenge and copied it into a text document.
 - I systematically guessed letters for each number, testing out common words and letters until more and more of the decoded text made sense.
