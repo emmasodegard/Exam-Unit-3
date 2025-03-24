@@ -38,7 +38,7 @@ After the first puzzle, I received a poem:
    ```js
    const answerData = await submitAnswer("SILVER");
 
-   ## Commit #4: Decoding the Number Cipher and Finding the Symbols
+## Commit #4: Decoding the Number Cipher and Finding the Symbols
 
 - I took the large numeric sequence I got from the challenge and copied it into a text document.
 - I systematically guessed letters for each number, testing out common words and letters until more and more of the decoded text made sense.
