@@ -17,7 +17,7 @@ I forgot to commit right after the first puzzle, but here is what happened:
   - ☽ = Silver
   - ♂ = Iron
   - ☉ = Gold (again)
-- So the correct code was **"Gold Quicksilver Silver Iron Gold"**.
+- So the correct code was **["Gold", "Quicksilver", "Silver", "Iron", "Gold"]**.
 - I used that as the answer, and the server said “Correct!” and gave me a new puzzle.
 
 ## Puzzle 2: Poem Puzzle
@@ -36,7 +36,7 @@ After the first puzzle, I received a poem:
    They form the word **SILVER**.
 2. I also had a small bug in my code where I didn’t store the return value of `submitAnswer()` in a variable. This caused a “ReferenceError: answerData is not defined.” I fixed it by writing:
    ```js
-   const answerData = await submitAnswer("SILICON");
+   const answerData = await submitAnswer("SILVER");
 
 ## Puzzle 3: Decoding the Number Cipher and Finding the Symbols
 
