@@ -68,7 +68,16 @@ When running this code, I get the final answers for:
 
 ## Resources:
 - Alchemical symbol. (2025, March). Wikipedia. https://en.wikipedia.org/wiki/Chemical_symbol
+(Used to confirm which symbols represent which metals or substances in alchemy to make sure the puzzle’s symbol decoding was accurate.)
+  
 - Chemical symbol. (2025, January). Wikipedia. https://en.wikipedia.org/wiki/Alchemical_symbol
+(Used to review the modern chemical notation and symbols)
+
 - Mercury (element). (2025, March). Wikipedia. https://en.wikipedia.org/wiki/Mercury_(element)
+(Referenced to confirm that Mercury is historically known as “quicksilver")
+  
 - Argon. (2024, December). Wikipedia. https://en.wikipedia.org/wiki/Argon
+(Consulted for details on Argon being the 18th element in the periodic table)
+
 - Periodic table. (2025, March). Wikipedia. https://en.wikipedia.org/wiki/Periodic_table
+(Used to verify atomic numbers, confirming each puzzle’s final step that pointed to a specific element)
