@@ -65,3 +65,10 @@ When running this code, I get the final answers for:
 - Puzzle 2: Reads the capital letters in the poem and extracts the hidden word.
 - Puzzle 3: Translates a numeric cipher into letters, then converts the resulting words (eight alchemical substances) into their symbolic forms.
 - Puzzle 4: Interprets capital letters or other hidden clues to deduce that element #18 in the periodic table is Argon.
+
+## Resources:
+- Alchemical symbol. (2025, March). Wikipedia. https://en.wikipedia.org/wiki/Chemical_symbol
+- Chemical symbol. (2025, January). Wikipedia. https://en.wikipedia.org/wiki/Alchemical_symbol
+- Mercury (element). (2025, March). Wikipedia. https://en.wikipedia.org/wiki/Mercury_(element)
+- Argon. (2024, December). Wikipedia. https://en.wikipedia.org/wiki/Argon
+- Periodic table. (2025, March). Wikipedia. https://en.wikipedia.org/wiki/Periodic_table
