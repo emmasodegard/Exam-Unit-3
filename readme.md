@@ -56,3 +56,12 @@ After the first puzzle, I received a poem:
 - Looked up the periodic table (Wikipedia page for Argon):
 - Element 18 is Argon.
 - Submitted the answer Argon, successfully solving the puzzle.
+
+## decodingAnswers:
+- Created a file that prints out the final answers for all puzzles in one go. This code performs the decryption logic.
+
+When running this code, I get the final answers for:
+- Puzzle 1: Decodes alchemical symbols (e.g., ☉, ☿, ☽, ♂) into their corresponding metals.
+- Puzzle 2: Reads the capital letters in the poem and extracts the hidden word.
+- Puzzle 3: Translates a numeric cipher into letters, then converts the resulting words (eight alchemical substances) into their symbolic forms.
+- Puzzle 4: Interprets capital letters or other hidden clues to deduce that element #18 in the periodic table is Argon.
