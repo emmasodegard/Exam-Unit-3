@@ -7,7 +7,7 @@
 - I installed `node-fetch` (version 2) to make HTTP requests.
 - I committed these changes with the message: "initialize project with npm and git".
 
-## Puzzle 1 (Forgot to Commit)
+## Puzzle 1
 I forgot to commit right after the first puzzle, but here is what happened:
 
 - The puzzle gave me symbols: **☉☿☽♂☉**. 
@@ -45,3 +45,14 @@ After the first puzzle, I received a poem:
 - Eventually, I uncovered the hidden message instructing me to combine eight alchemical substances:
   **Mercury, Copper, Sulfur, Heat, Salt, Water, Gold, Air.**
 - Instead of forming a single word, I realized the puzzle wanted the **alchemical symbols** for these substances, and got the correct answer
+
+## Puzzle 4: Elemental Matrix
+
+- Received a puzzle with many alchemical symbols arranged in a matrix.
+- Spent the most time on this puzzle because it was very difficult.
+- Found a hidden message by focusing on capital letters, as learned from earlier puzzles.
+- The hidden message pointed to a specific place in the symbol matrix.
+- After careful checking, realized the puzzle was pointing to element number 18.
+- Looked up the periodic table (Wikipedia page for Argon):
+- Element 18 is Argon.
+- Submitted the answer Argon, successfully solving the puzzle.
